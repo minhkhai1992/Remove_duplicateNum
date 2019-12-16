@@ -1,0 +1,3 @@
+The exercise will be practice and help people understand syntax and concept how python run
+
+-Khai Lim
